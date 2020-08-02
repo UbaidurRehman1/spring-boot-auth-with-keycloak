@@ -1,0 +1,1 @@
+# Spring Boot (with template engine Thymeleaf) authentication and authorization with keycloak
