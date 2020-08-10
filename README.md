@@ -1,9 +1,5 @@
-# Spring Boot (with template engine Thymeleaf) authentication and authorization with keycloak
+# Spring Boot app authentication and authorization with keycloak
 
 
-## Todos
-- [] Setup dev branch
-- [] Setup up dockerfile for keycloak server
-- [] add user
-- [] Setup rehman realm
-- [] Setup Spring boot app
+# Modules:
+1. [KeyCloak](./keyClaok)
